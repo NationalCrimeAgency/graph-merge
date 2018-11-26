@@ -7,11 +7,11 @@
   <parent>
     <groupId>uk.gov.nca.graph</groupId>
     <artifactId>parent</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
   </parent>
 
   <artifactId>merge</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Graph Merge</name>
   <description>Tool for merging vertices in a Tinkerpop graphs</description>
   <url>https://github.com/NationalCrimeAgency/graph-merge</url>
